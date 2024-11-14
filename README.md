@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saransh</h1>
-<h3 align="center">I am a committed and meticulous programmer, demonstrating a strong work ethic and dedication as a student.</h3>
+<h3 align="center">Loves Deep Learning, Langchain and Generative AI.</h3>
 
 - 🔭 I’m currently working on **Multilingual Bank Kiosk**
 
